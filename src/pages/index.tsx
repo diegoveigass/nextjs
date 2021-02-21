@@ -1,5 +1,7 @@
+import { Title } from '../styles/pages/Home';
+
 export default function Home() {
   return (
-    <div>Hello world</div>
+    <Title>Hello world</Title>
   )
 }
